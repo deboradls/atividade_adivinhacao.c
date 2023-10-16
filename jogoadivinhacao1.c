@@ -78,15 +78,14 @@ int main() {
 
     printf("\n");
     if (acertou) {
-		printf("\n");
 		printf(" ____________\n");
-        printf("|            | \n");
-        printf("|  PARABÉNS  | \n");   
-        printf("|____________| \n");
+        printf("|           | \n");
+        printf("| PARABÉNS! | \n");   
+        printf("|___________| \n");
         printf("(\\__/) ||\n");
         printf("(•ㅅ•) ||\n");
         printf("/    づ \n");
-        printf("Parabéns! Você acertou!\n");
+        printf("Você acertou!\n");
         printf("Você fez %.2f pontos. Até a próxima!\n\n", pontos);
     } else {
 		printf(" ___________\n");
