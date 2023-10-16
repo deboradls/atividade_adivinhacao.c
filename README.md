@@ -1,8 +1,8 @@
 # atividade_advinhacao.c
-Esse repositório tem como objetivo armazenar as respostas da atividade denominada "Jogo da Advinhação", solicitada pelo professor da disciplina de Fundamentos de Programação (FUP), do curso Bacharelado em Ciência da Computação do IFCE de Maracanaú.
+Esse repositório tem como objetivo armazenar as respostas da atividade denominada "Jogo da Adivinhação", solicitada pelo professor da disciplina de Fundamentos de Programação (FUP), do curso Bacharelado em Ciência da Computação do IFCE de Maracanaú.
 
-# SOBRE O JOGO DA ADVINHAÇÃO
-O jogo da advinhação foi desenvolvido no decorrer das aulas de fundamentos de programação.
+# SOBRE O JOGO DA ADIVINHAÇÃO
+O jogo da adivinhação foi desenvolvido no decorrer das aulas FUP, juntamente com o professor. O mesmo consiste em o usuário tentar adivinhar um número aleatório que o sistema escolhe. 
 
 # QUESTÕES
 1. Hoje o jogo escolhe um número entre 0 e 99. Deixe o usuário escolher esse limite. Você precisa capturar esses dois números ele, e usá-los na hora de calcular o número randômico.
