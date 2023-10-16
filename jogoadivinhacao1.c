@@ -76,7 +76,8 @@ int main() {
         pontos = pontos - pontosperdidos;
     }
 
-    if (acertou) {
+    if (acertou) 
+    {
 		    printf(" ___________\n");
             printf("|           | \n");
             printf("| PARABÉNS! | \n");   
@@ -87,7 +88,8 @@ int main() {
             printf("Você acertou!\n");
             printf("Você fez %.2f pontos. Até a próxima!\n\n", pontos);
     } 
-    else {
+    else 
+    {
             printf(" ___________\n");
             printf("|           | \n");
             printf("| QUE PENA! | \n");   
