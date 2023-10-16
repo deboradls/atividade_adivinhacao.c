@@ -78,7 +78,7 @@ int main() {
 
     printf("\n");
     if (acertou) {
-		printf(" ____________\n");
+		printf(" ___________\n");
         printf("|           | \n");
         printf("| PARABÉNS! | \n");   
         printf("|___________| \n");
