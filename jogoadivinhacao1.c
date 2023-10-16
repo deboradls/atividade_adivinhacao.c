@@ -78,28 +78,24 @@ int main() {
 
     printf("\n");
     if (acertou) {
-		printf("             OOOOOOOOOOO               \n");
-		printf("         OOOOOOOOOOOOOOOOOOO           \n");
-		printf("      OOOOOO  OOOOOOOOO  OOOOOO        \n");
-		printf("    OOOOOO      OOOOO      OOOOOO      \n");
-		printf("  OOOOOOOO  #   OOOOO  #   OOOOOOOO    \n");
-		printf(" OOOOOOOOOO    OOOOOOO    OOOOOOOOOO   \n");
-		printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
-		printf("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO  \n");
-		printf("OOOO  OOOOOOOOOOOOOOOOOOOOOOOOO  OOOO  \n");
-		printf(" OOOO  OOOOOOOOOOOOOOOOOOOOOOO  OOOO   \n");
-		printf("  OOOO   OOOOOOOOOOOOOOOOOOOO  OOOO    \n");
-		printf("    OOOOO   OOOOOOOOOOOOOOO   OOOO     \n");
-		printf("      OOOOOO   OOOOOOOOO   OOOOOO      \n");
-		printf("         OOOOOO         OOOOOO         \n");
-		printf("             OOOOOOOOOOOO              \n");
+		printf("\n");
+		printf(" ____________\n");
+        printf("|            | \n");
+        printf("|  PARABÉNS  | \n");   
+        printf("|____________| \n");
+        printf("(\\__/) ||\n");
+        printf("(•ㅅ•) ||\n");
+        printf("/    づ \n");
         printf("Parabéns! Você acertou!\n");
         printf("Você fez %.2f pontos. Até a próxima!\n\n", pontos);
     } else {
-		printf("       \\|/ ____ \\|/    \n");   
-        printf("        @~/ ,. \\~@      \n");   
-        printf("       /_( \\__/ )_\\    \n");   
-        printf("          \\__U_/        \n");
+		printf(" ___________\n");
+        printf("|           | \n");
+        printf("| QUE PENA! | \n");   
+        printf("|___________| \n");
+        printf("(\\__/) ||_\n");
+        printf("(•ㅅ•) ||\n");
+        printf("/    づ \n");
         printf("Você perdeu! Tente novamente!\n\n");
     }
 
